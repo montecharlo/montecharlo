@@ -1,6 +1,6 @@
 """Render the data-driven figures that the profile README embeds.
 
-    GITHUB_TOKEN=... python scripts/build_live.py --login sa-aris --out dist
+    GITHUB_TOKEN=... python scripts/build_live.py --login montecharlo --out dist
     python scripts/build_live.py --demo --out /tmp/preview      # offline preview
 
 Replaces the third-party stats/pin cards (github-readme-stats), whose public
@@ -599,7 +599,7 @@ def card(repo: dict | None, name: str, index: int, theme: str) -> str:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--login", default=os.environ.get("GITHUB_REPOSITORY_OWNER", "sa-aris"))
+    parser.add_argument("--login", default=os.environ.get("GITHUB_REPOSITORY_OWNER", "montecharlo"))
     parser.add_argument("--out", type=Path, default=Path("dist"))
     parser.add_argument("--demo", action="store_true", help="render synthetic data without calling the API")
     args = parser.parse_args()
