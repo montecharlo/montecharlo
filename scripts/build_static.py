@@ -110,7 +110,7 @@ def hero(theme: str) -> str:
     # corner metadata, oscilloscope style
     out.append(
         f'<g font-family="{MONO}" font-size="11" fill="{c["muted"]}">'
-        f'<text x="24" y="28">sa-aris / fig. 0</text>'
+        f'<text x="24" y="28">montecharlo / fig. 0</text>'
         f'<text x="{w - 24}" y="28" text-anchor="end">spiking network · LIF neuron · simulated</text></g>'
     )
 

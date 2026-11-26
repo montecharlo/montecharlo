@@ -2,11 +2,11 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa-aris/sa-aris/main/assets/hero-dark.svg" />
-  <img alt="Aris — software engineer who simulates brains. A small spiking network fires activity cascades while a simulated neuron's membrane potential sweeps across the bottom." src="https://raw.githubusercontent.com/sa-aris/sa-aris/main/assets/hero-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montecharlo/montecharlo/main/assets/hero-dark.svg" />
+  <img alt="Aris — software engineer who simulates brains. A small spiking network fires activity cascades while a simulated neuron's membrane potential sweeps across the bottom." src="https://raw.githubusercontent.com/montecharlo/montecharlo/main/assets/hero-light.svg" width="100%" />
 </picture>
 
-<a href="https://github.com/sa-aris">
+<a href="https://github.com/montecharlo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-stack+%C2%B7+Mobile+%C2%B7+Data+%26+AI;Connectome-constrained+brain+simulation;Spiking+networks+%C2%B7+plasticity+%C2%B7+%CE%A6;Clean+code+for+messy+science" alt="Full-stack · Mobile · Data & AI — Connectome-constrained brain simulation — Spiking networks · plasticity · Φ" />
 </a>
 
@@ -52,8 +52,8 @@ class Aris(LIFNeuron):
 ## 1 · Research — *Elegans*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa-aris/sa-aris/main/assets/elegans-dark.svg" />
-  <img alt="Fig. 1 — Elegans. Left: a C. elegans nematode crawling up an odorant gradient on an agar plate. Right: the closed loop the project studies — connectome, spiking dynamics, behaviour, neuromodulation, plasticity — with integrated information Φ measured on the dynamics." src="https://raw.githubusercontent.com/sa-aris/sa-aris/main/assets/elegans-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montecharlo/montecharlo/main/assets/elegans-dark.svg" />
+  <img alt="Fig. 1 — Elegans. Left: a C. elegans nematode crawling up an odorant gradient on an agar plate. Right: the closed loop the project studies — connectome, spiking dynamics, behaviour, neuromodulation, plasticity — with integrated information Φ measured on the dynamics." src="https://raw.githubusercontent.com/montecharlo/montecharlo/main/assets/elegans-light.svg" width="100%" />
 </picture>
 
 <sub><b>Fig. 1</b> | The project is named after <i>C. elegans</i>, the first animal whose complete wiring
@@ -111,8 +111,8 @@ bipartition:
 ## 2 · Interests
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa-aris/sa-aris/main/assets/interests-dark.svg" />
-  <img alt="Fig. 2 — Periodic table of interests. Neuroscience: connectomics, spiking networks, plasticity, neuromodulation, integrated information, insect vision. Complex systems: neuroevolution, artificial life, multi-agent systems. Language and AI: stylometry, LLM memory, game AI. Engineering: scientific computing, full-stack, mobile, developer tooling." src="https://raw.githubusercontent.com/sa-aris/sa-aris/main/assets/interests-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montecharlo/montecharlo/main/assets/interests-dark.svg" />
+  <img alt="Fig. 2 — Periodic table of interests. Neuroscience: connectomics, spiking networks, plasticity, neuromodulation, integrated information, insect vision. Complex systems: neuroevolution, artificial life, multi-agent systems. Language and AI: stylometry, LLM memory, game AI. Engineering: scientific computing, full-stack, mobile, developer tooling." src="https://raw.githubusercontent.com/montecharlo/montecharlo/main/assets/interests-light.svg" width="100%" />
 </picture>
 
 <sub><b>Fig. 2</b> | Sixteen interests in four groups. The glow that walks across the table follows atomic
@@ -123,21 +123,21 @@ number — an excitation, not a ranking.</sub>
 
 <div align="center">
 
-<a href="https://github.com/sa-aris/aithena"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa-aris/sa-aris/output/card-aithena-dark.svg" />
-  <img alt="aithena — C++17 NPC AI framework" src="https://raw.githubusercontent.com/sa-aris/sa-aris/output/card-aithena-light.svg" width="49%" />
+<a href="https://github.com/montecharlo/aithena"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montecharlo/montecharlo/output/card-aithena-dark.svg" />
+  <img alt="aithena — C++17 NPC AI framework" src="https://raw.githubusercontent.com/montecharlo/montecharlo/output/card-aithena-light.svg" width="49%" />
 </picture></a>
-<a href="https://github.com/sa-aris/Context-Bridge"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa-aris/sa-aris/output/card-context-bridge-dark.svg" />
-  <img alt="Context-Bridge — shared neural memory for multi-agent LLM systems" src="https://raw.githubusercontent.com/sa-aris/sa-aris/output/card-context-bridge-light.svg" width="49%" />
+<a href="https://github.com/montecharlo/Context-Bridge"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montecharlo/montecharlo/output/card-context-bridge-dark.svg" />
+  <img alt="Context-Bridge — shared neural memory for multi-agent LLM systems" src="https://raw.githubusercontent.com/montecharlo/montecharlo/output/card-context-bridge-light.svg" width="49%" />
 </picture></a>
-<a href="https://github.com/sa-aris/idiolect"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa-aris/sa-aris/output/card-idiolect-dark.svg" />
-  <img alt="idiolect — cross-lingual author attribution" src="https://raw.githubusercontent.com/sa-aris/sa-aris/output/card-idiolect-light.svg" width="49%" />
+<a href="https://github.com/montecharlo/idiolect"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montecharlo/montecharlo/output/card-idiolect-dark.svg" />
+  <img alt="idiolect — cross-lingual author attribution" src="https://raw.githubusercontent.com/montecharlo/montecharlo/output/card-idiolect-light.svg" width="49%" />
 </picture></a>
-<a href="https://github.com/sa-aris/cpp-rpg-inventory-system"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa-aris/sa-aris/output/card-cpp-rpg-inventory-system-dark.svg" />
-  <img alt="cpp-rpg-inventory-system — modular RPG inventory backend in C++17" src="https://raw.githubusercontent.com/sa-aris/sa-aris/output/card-cpp-rpg-inventory-system-light.svg" width="49%" />
+<a href="https://github.com/montecharlo/cpp-rpg-inventory-system"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montecharlo/montecharlo/output/card-cpp-rpg-inventory-system-dark.svg" />
+  <img alt="cpp-rpg-inventory-system — modular RPG inventory backend in C++17" src="https://raw.githubusercontent.com/montecharlo/montecharlo/output/card-cpp-rpg-inventory-system-light.svg" width="49%" />
 </picture></a>
 
 </div>
@@ -205,8 +205,8 @@ number — an excitation, not a ranking.</sub>
 ## 5 · Results — measured, not claimed
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa-aris/sa-aris/output/activity-dark.svg" />
-  <img alt="Fig. 3 — Contribution activity over the last year drawn as a neural spike train: weekly histogram with a smoothed rate, a raster of daily contributions, and spike-train statistics." src="https://raw.githubusercontent.com/sa-aris/sa-aris/output/activity-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montecharlo/montecharlo/output/activity-dark.svg" />
+  <img alt="Fig. 3 — Contribution activity over the last year drawn as a neural spike train: weekly histogram with a smoothed rate, a raster of daily contributions, and spike-train statistics." src="https://raw.githubusercontent.com/montecharlo/montecharlo/output/activity-light.svg" width="100%" />
 </picture>
 
 <sub><b>Fig. 3</b> | A year of contributions read the way a neuroscientist reads a neuron. <b>(a)</b> Weekly
@@ -216,19 +216,19 @@ the Fano factor and the inter-spike-interval CV both equal 1 for a Poisson proce
 comes in bursts.</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa-aris/sa-aris/output/spectrum-dark.svg" />
-  <img alt="Fig. 4 — Languages across public repositories drawn as emission lines on the visible spectrum, next to a table of GitHub observables." src="https://raw.githubusercontent.com/sa-aris/sa-aris/output/spectrum-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montecharlo/montecharlo/output/spectrum-dark.svg" />
+  <img alt="Fig. 4 — Languages across public repositories drawn as emission lines on the visible spectrum, next to a table of GitHub observables." src="https://raw.githubusercontent.com/montecharlo/montecharlo/output/spectrum-light.svg" width="100%" />
 </picture>
 
 <sub><b>Fig. 4</b> | <b>(a)</b> Language mix across public repositories as an emission spectrum: each language
 is a spectral line placed at the wavelength of its GitHub colour, its height set by its share of code.
-<b>(b)</b> Observables. Figs. 3–5 are regenerated every 12 hours by <a href="https://github.com/sa-aris/sa-aris/blob/main/.github/workflows/snake.yml">a GitHub Action</a>
-from <a href="https://github.com/sa-aris/sa-aris/tree/main/scripts">dependency-free scripts</a> in this repository.</sub>
+<b>(b)</b> Observables. Figs. 3–5 are regenerated every 12 hours by <a href="https://github.com/montecharlo/montecharlo/blob/main/.github/workflows/snake.yml">a GitHub Action</a>
+from <a href="https://github.com/montecharlo/montecharlo/tree/main/scripts">dependency-free scripts</a> in this repository.</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sa-aris/sa-aris/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sa-aris/sa-aris/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation eating the contribution graph" src="https://raw.githubusercontent.com/sa-aris/sa-aris/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montecharlo/montecharlo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/montecharlo/montecharlo/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation eating the contribution graph" src="https://raw.githubusercontent.com/montecharlo/montecharlo/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 <sub><b>Fig. 5</b> | The same data, less rigorously: a snake eats the contribution graph.</sub>
@@ -239,7 +239,7 @@ from <a href="https://github.com/sa-aris/sa-aris/tree/main/scripts">dependency-f
 <div align="center">
 
 <a href="mailto:solus.aris@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-<a href="https://github.com/sa-aris"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/montecharlo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -260,9 +260,9 @@ from <a href="https://github.com/sa-aris/sa-aris/tree/main/scripts">dependency-f
 ```bibtex
 @misc{aris_profile,
   author       = {Aris},
-  title        = {sa-aris: where software engineering meets computational neuroscience},
+  title        = {montecharlo: where software engineering meets computational neuroscience},
   year         = {2026},
-  howpublished = {\url{https://github.com/sa-aris}},
+  howpublished = {\url{https://github.com/montecharlo}},
   note         = {Living document; Figs. 3--5 regenerate every 12 hours}
 }
 ```
@@ -271,5 +271,5 @@ from <a href="https://github.com/sa-aris/sa-aris/tree/main/scripts">dependency-f
 
 <!-- ====================== FOOTER ====================== -->
 <div align="center">
-<sub>Every figure on this page is computed, not drawn — see <a href="https://github.com/sa-aris/sa-aris/tree/main/scripts"><code>scripts/</code></a>.</sub>
+<sub>Every figure on this page is computed, not drawn — see <a href="https://github.com/montecharlo/montecharlo/tree/main/scripts"><code>scripts/</code></a>.</sub>
 </div>
